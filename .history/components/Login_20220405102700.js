@@ -10,7 +10,7 @@ function Login() {
       <div className="flex flex-col absolute z-50 h-4/6 w-full items-center justify-center space-y-4">
         <Image
           className="object-cover rounded-full"
-          src="https://avatars.dicebear.com/api/:sprites/:seed.svg"
+          src="avatars.dicebear.com"
           height={200}
           width={200}
         />
