@@ -9,7 +9,7 @@ function Header() {
   return (
     <div className="sticky top-0 p-5 z50 bg-black shadow-sm text-pink-500 border-b-2 border-pink-700">
       <div className="grid grid-cols-5 lg:grid-cols-6 items-end lg:items-center">
-        <div className="relative h-30 w-30 mx-auto hidden lg:inline-grid">
+        <div className="relative h-50 w-20 mx-auto hidden lg:inline-grid">
           <img
             layout="fill"
             objectFit="cover"
