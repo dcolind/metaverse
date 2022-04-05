@@ -7,7 +7,7 @@ function Login() {
   return (
     <div className="bg-black relative">
       <h1>I am the login screen</h1>
-      <div className="flex flex-col absolute z-50 h-5/6 w-full items-center justify-center space-y-4">
+      <div className="flex flex-col absolute z-50 h- w-full items-center justify-center space-y-4">
         <img
           className="rounded-full"
           src="https://static.wikia.nocookie.net/8487e340-07ec-4749-93d2-e82854f0516e/scale-to-width/755"

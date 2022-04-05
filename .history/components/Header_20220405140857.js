@@ -9,12 +9,12 @@ function Header() {
   return (
     <div className="sticky top-0 p-5 z-50 bg-black shadow-sm text-pink-500 border-b-2 border-pink-700">
       <div className="grid grid-cols-5 lg:grid-cols-6 items-end lg:items-center">
-        <div className="relative h-28 w-28 mx-auto hidden lg:inline-grid">
-          <img
+        <div className="relative h-24 w-24 mx-auto hidden lg:inline-grid">
+          <Image
             layout="fill"
             objectFit="cover"
-            className="rounded"
-            src="https://static.wikia.nocookie.net/8487e340-07ec-4749-93d2-e82854f0516e/scale-to-width/755"
+            className="rounded-full"
+            src="https://links.papareact.com/3pi"
           />
         </div>
 
